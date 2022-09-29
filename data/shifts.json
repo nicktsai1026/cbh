@@ -1,0 +1,16 @@
+{
+    "shifts": [
+        {
+            "id": 1,
+            "shift": "Morning"
+        },
+        {
+            "id": 2,
+            "shift": "Afternoon"
+        },
+        {
+            "id": 3,
+            "shift": "Evening"
+        }
+    ]
+}

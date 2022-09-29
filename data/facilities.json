@@ -1,0 +1,16 @@
+{
+    "facilities": [
+        {
+            "id": 1,
+            "name": "Office"
+        },
+        {
+            "id": 2,
+            "name": "Hospital"
+        },
+        {
+            "id": 3,
+            "name": "Hotel"
+        }
+    ]
+}

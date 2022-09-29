@@ -1,0 +1,16 @@
+{
+    "agents": [
+        {
+            "id": 1,
+            "name": "John"
+        },
+        {
+            "id": 2,
+            "name": "David"
+        },
+        {
+            "id": 3,
+            "name": "Mary"
+        }
+    ]
+}
